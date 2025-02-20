@@ -75,4 +75,4 @@ char device[MAX_LINE], vulnerability[MAX_LINE];
  simulate_phishing();
  analyze_network_security("network_devices.txt");
  return 0;
- 
+ }
